@@ -1,0 +1,109 @@
+.logoPro{
+    width: 60px; 
+    height: 60px;
+    display:block;
+    margin:auto; 
+    opacity: 3;;
+
+    
+}
+.logoProj2{
+    width: 140px; 
+    height: 60px;
+    display:block;
+    margin:auto; 
+    
+}
+.logoPro3{
+    width: 90px; 
+    height: 90px;
+    display:block;
+    margin:auto; 
+    opacity: 3;;
+    
+}
+.logoPro4{
+    width: 90px; 
+    height: 90px;
+    display:block;
+    margin:auto; 
+    opacity: 3;;
+
+    
+}
+
+
+
+#TituloProj1{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    background-color:rgba(48, 132, 70, 0.938);
+
+    font-family: Rockwell;
+font-size: 200%;
+font-display:block;
+text-align:center;
+margin:auto;
+font-weight: lighter;
+}
+
+#TituloProj2{
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    background-color:rgba(229, 191, 1, 0.841); 
+    font-family: Futura;
+font-size: 120%;
+font-display:block;
+text-align:center;
+margin:auto;
+font-weight: bold;
+
+}
+
+#TituloProj3{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    background-color:rgb(255, 11, 11);
+    font-family: Futura;
+font-size:90%;
+font-display:block;
+text-align:right;
+margin-right: 20%;
+margin:auto;
+font-weight: bold;
+
+}
+
+#TituloProj4{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    background-color:rgb(103, 100, 100);
+    font-family: Futura;
+    font-size:90%;
+font-display:block;
+text-align:center;
+margin:auto;
+font-weight: bold;
+
+  }
+ 
+  #TituloProj0{
+    color: rgb(0, 0, 0);
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    font-family: Futura;
+font-size: 110%;
+font-display:block;
+text-align:justify;
+margin:auto;
+  }
+ 
+

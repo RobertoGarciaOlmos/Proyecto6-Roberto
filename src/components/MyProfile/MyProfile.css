@@ -1,0 +1,30 @@
+.fondo1 {
+    background-color: rgb(1, 1, 1);
+}
+
+.foto1 {
+    border: 2px solid rgb(255, 255, 255);
+    max-width: 60%;
+}
+
+
+#TituloProfile{
+    color: aliceblue;
+    font-family: Futura;
+font-size: 200%;
+font-display:block;
+text-align:center;
+margin:auto;
+font-weight: lighter;
+
+  }
+ 
+  #LetraProfile{
+    color: aliceblue;
+    font-family: Futura;
+font-size: 120%;
+font-display:block;
+text-align:justify;
+margin:auto;
+  }
+ 

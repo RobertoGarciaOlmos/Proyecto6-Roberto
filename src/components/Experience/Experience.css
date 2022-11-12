@@ -1,0 +1,69 @@
+.lineaTiempo{
+    width: 70%;  
+; 
+}
+
+.logoEmp{
+    width: 200px;
+    display:block;
+margin:auto; 
+filter: grayscale(30%) 
+
+}
+
+
+
+#TituloExp1{
+    color: rgb(0, 0, 0);
+    font-family: Rockwell;
+font-size: 300%;
+font-display:block;
+text-align:center;
+margin:auto;
+font-weight: lighter;
+}
+
+#TituloExp2{
+    color: rgb(8, 8, 8);
+    font-family: Futura;
+font-size: 150%;
+font-display:block;
+text-align:center;
+margin:auto;
+font-weight: bold;
+
+}
+
+#TituloExp3{
+    color: rgb(8, 8, 8);
+    font-family: Futura;
+font-size:110%;
+font-display:block;
+text-align:right;
+margin-right: 20%;
+margin:auto;
+font-weight: bold;
+
+}
+
+#TituloExp{
+    color: rgb(8, 8, 8);
+    font-family: Futura;
+font-size: 130%;
+font-display:block;
+text-align:justify;
+margin:auto;
+font-weight: bold;
+
+  }
+ 
+  #LetraExp{
+    color: rgb(0, 0, 0);
+    font-family: Futura;
+font-size: 110%;
+font-display:block;
+text-align:justify;
+margin:auto;
+  }
+ 
+

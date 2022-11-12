@@ -1,0 +1,25 @@
+.ribbon {
+    background-color: rgba(253, 253, 253, 0.868);
+    text-align: center;
+    font-size:large;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.666);
+}
+
+.imagenLB {
+    max-width: 200px;
+    align-items: center;
+}
+
+.fin{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: larger;
+}
+
+#letraFooter{
+    text-decoration:none;
+    color: rgb(255, 255, 255);
+}
+

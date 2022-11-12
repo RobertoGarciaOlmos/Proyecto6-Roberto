@@ -1,0 +1,46 @@
+.logoEscuela{
+    width: 300px;
+    display:block;
+margin:auto;  
+filter: grayscale(40%)
+; 
+}
+.logoEscuela1{
+    width: 200px;
+    display:block;
+margin:auto; 
+filter: grayscale(40%) 
+; 
+}
+
+#TituloEdu1{
+    color: rgb(0, 0, 0);
+    font-family: Rockwell;
+font-size: 300%;
+font-display:block;
+text-align:center;
+margin:auto;
+font-weight: lighter;
+}
+
+#TituloEdu{
+    color: rgb(8, 8, 8);
+    font-family: Futura;
+font-size: 150%;
+font-display:block;
+text-align:center;
+margin:auto;
+font-weight: bold;
+
+  }
+ 
+  #LetraEdu{
+    color: rgb(0, 0, 0);
+    font-family: Futura;
+font-size: 130%;
+font-display:block;
+text-align:center;
+margin:auto;
+  }
+ 
+

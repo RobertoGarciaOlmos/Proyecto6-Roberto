@@ -1,0 +1,49 @@
+.proyectImg{
+    border: 2px solid rgba(9, 9, 9, 0.421);
+    width: 80%;
+    display:block;
+margin:auto;  
+filter: grayscale(30%)
+}
+
+.proyectImg:hover { 
+    border: 2px solid rgba(0, 0, 0, 0.794);
+    filter: grayscale(100%);
+    width: 80%;
+}
+
+
+.proyectImg2 { 
+    width: 10%;
+    display:block;
+    margin:auto;
+    margin-top: 10px;  
+    filter: invert();
+   
+}
+
+.proyectImg2:hover { 
+    filter: grayscale(70%);
+    width: 10%;
+}
+
+#TituloPortafolio{
+    color: rgb(0, 0, 0);
+    font-family: Rockwell;
+font-size: 250%;
+font-display:block;
+text-align:center;
+margin:auto;
+font-weight: lighter;
+}
+
+#TituloPortafolio1{
+    color: rgb(8, 8, 8);
+    font-family: Futura;
+font-size: 170%;
+font-display:block;
+text-align:center;
+margin:auto;
+font-weight: bold;
+
+}
