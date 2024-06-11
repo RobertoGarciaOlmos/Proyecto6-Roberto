@@ -4,7 +4,8 @@ const EducationPage = () => {
     return (
         <><Education/>
         </>
-        )
+<br /><br /><br />
+    )
     
     }
     
