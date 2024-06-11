@@ -90,20 +90,21 @@ const Experience= () =>{
     <br />
     <div id='TituloExp2'>Nissan Motor Corporation</div>
     <br />
-    <div id='TituloExp' >Purchasing supervisor for Vendor Tooling</div>
+    <div id='TituloExp' >(GVT) Team Leader, Global Vendor Tooling – Plastic commodities </div>
     <div id='TituloExp' >June 2019 - November 2021 </div>
     <br />
     <div id='LetraExp'>-Purchasing tools (Die, Die Casting, Mold, jigs, gauges, etc) for CPM, Harness, Meter, SW, Electro parts, audio, battery, and alternator T/O 20Musd.</div>
-    <div id='LetraExp'>-Tool cost validation to get the best business case (N-Value, IDO-Sheet, breakdown, tooling cost table, Benchmark, Currency scheme, etc).</div>
-    <div id='LetraExp'>-Discussing budget logic and budget setting sheet with the cost estimator</div>
-    <div id='LetraExp'>-Discussing with the PD Team to choose the best supplier evaluated with the NPV indicator (Net Present Value).</div>
+    <div id='LetraExp'>-Negotiation of mass production tools with T1.</div>
+    <div id='LetraExp'>-Tool cost validation to get the best business case.</div>
+    <div id='LetraExp'>-Discussing budget logic and budget setting sheet with the cost estimator.</div>
+    <div id='LetraExp'>-Discussing with the PD Team to choose the best supplier evaluated with the NPV  indicator (Net Present Value).</div>
     <br />
-    <div id='TituloExp' >Vendor Tooling Engineer</div>
+    <div id='TituloExp' >(GVT) Global Vendor Tooling Engineer - Stamping commodities</div>
     <div id='TituloExp' >August 2017- June 2019 </div>
     <br />
     <div id='LetraExp'>-Purchasing tools (Die, Die Casting, Mold, jigs, gauges, etc) for Pedal, PKB, Mechanism, fuel system, brake, BIW T/O 8 Musd.</div>
     <br />
-    <div id='TituloExp' >VT audit team - External</div>
+    <div id='TituloExp' >(GVT) Global Vendor Tooling Auditor </div>
     <div id='TituloExp' >June 2016- August 2017 </div>
     <br />
     <div id='LetraExp'>-Process payment for tools with T1.</div>
