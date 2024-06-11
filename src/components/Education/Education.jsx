@@ -71,6 +71,9 @@ const Education= () =>{
 </Container>
 
 <br /><br /><br />
+            <br /><br /><br />
+            <br /><br /><br />
+            <br /><br /><br />
 
         </div>
     )}
