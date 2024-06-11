@@ -29,12 +29,21 @@ const Experience= () =>{
     <br />
     <div id='TituloExp2'>Ford Motor Company</div>
     <br /><br />
-    <div id='TituloExp'>Cost Estimator</div>
+    <div id='TituloExp'> Cost optimitation cordinator</div>
     <div id='TituloExp' >November 2021 - Current Job</div>
     <br />
-    <div  id='LetraExp'>-Estimation and development of OCE for engineering services.</div>
-    <div id='LetraExp'>-Negotiations and cost reductions for purchased services.</div>
-    <div id='LetraExp'>-Creation and development of new engineering processes global.</div>
+    <div  id='LetraExp'>-Cost optimization for purchased services: implementation of standard quotation formats and cost estimation methodology.</div>
+    <div id='LetraExp'>-Negotiation and validation of costs for purchased services.</div>
+    <div id='LetraExp'>-Implementation of digital dashboards (Power BI and Python) for cost control and project cost monitoring for upper management.</div>
+    <div id='LetraExp'>-Development of a new supplier catalog.</div>
+    <div id='LetraExp'>-Implementation of purchasing strategies.</div>
+    <div id='LetraExp'>-Search and development of projects for the relocation of purchased services to LCC countries.</div>
+        <br />
+    <div id='TituloExp' >Additional Activities</div>
+        <br />
+        <div id='LetraExp'>-Closures D&R Engineer - Exchange and Training by Mentoring Program. </div>
+    <div id='LetraExp'>-Team Leader for IMS Platforms. </div>
+    <div id='LetraExp'>-Co-leader of ERG: Men as Allies WoF.</div>
     </div>
     <br /><br /><br /><br /><br />
 
