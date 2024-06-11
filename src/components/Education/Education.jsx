@@ -53,7 +53,7 @@ const Education= () =>{
     <Col sm={3}>  <div>
 
     <div id='LetraEdu'>Master in Organizational Management</div>
-    <div id='LetraEdu'>August 2021 - Current Student</div>
+    <div id='LetraEdu'>August 2021 - June 2024</div>
     </div></Col>
     <Col sm={1}></Col>
     <Col sm={4}> <div>
@@ -62,8 +62,9 @@ const Education= () =>{
     </div>  </Col>
     <Col sm={1}></Col>
     <Col sm={3}> <div> 
-    <div id='LetraEdu'>Bootcamp - Full Stack Developer</div>
-    <div id='LetraEdu'>April 2022- November 2022</div>    
+    <div id='LetraEdu'>Full Stack Developer</div>
+    <div id='LetraEdu'>Data Analytics and AI</div>
+    <div id='LetraEdu'>April 2022- June 2023</div>    
     </div>  </Col>
     </Row>
 
